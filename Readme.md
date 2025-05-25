@@ -12,7 +12,8 @@ A Cloudflare Worker that proxies DuckDuckGo with custom branding via regex & JS 
 Deploy [`worker.js`](worker.js) to Cloudflare Workers.
 
 ## Note
-This is just a Educational project created while exploring Cloudflare Workers. Will be removed if it violates any ToS.
+It is not a clone or phishing page. This is just an educational project created while exploring Cloudflare Workers and can be treated as a prototype for creating similar website proxies. It will be removed if it violates any ToS or is found to be illegal.
+contact me here: mail@0xarchit.is-a.dev
 
 ---
 
